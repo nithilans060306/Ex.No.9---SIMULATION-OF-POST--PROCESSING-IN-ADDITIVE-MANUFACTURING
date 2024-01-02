@@ -1,6 +1,7 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
+2-1-24
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +35,25 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-01-02 031036](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/fe472b72-0f50-4c1c-82ce-b94dedadafdc)
+![Screenshot 2024-01-02 031057](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/80735bf9-2983-4c7e-9f25-b12994362641)
+![Screenshot 2024-01-02 032039](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/7ecca564-61f4-45c3-addd-9f33e382e11d)
 
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
-
+## UV Curing of 3D printed part)
+![Screenshot 2024-01-02 032209](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/17a33fdf-1204-4e8e-9cbf-770054ca5769)
+![Screenshot 2024-01-02 032227](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/dbd497ea-09d7-44e8-9079-5393be25d6d4)
+![Screenshot 2024-01-02 032255](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/845f9730-c7d9-49e2-a309-96f464734e6e)
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-01-02 032658](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/5eb78dd1-a4f2-4738-ac36-16345a99a5b8)
+![Screenshot 2024-01-02 032747](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/cdc58e2a-a563-4915-9582-e0f5f2d30255)
+![Screenshot 2024-01-02 032812](https://github.com/nithilans060306/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473026/ffe2c062-51ac-44f3-9a41-955c4d48d205)
 
 ## Output:
 
 ### Name:
+Nithilan S
 ### Register Number:
+23013463
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
